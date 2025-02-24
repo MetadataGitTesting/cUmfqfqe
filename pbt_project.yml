@@ -1,0 +1,59 @@
+name: loan.boyer
+description: approach
+version: 0.53.176
+author: null
+language: scala
+buildSystem: ''
+buildSystemDetails:
+  artefactID: loanboyer
+  parentArtefactID: ''
+  buildSystem: maven
+  author: null
+  createdAt: '2025-02-24 23:16:19'
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+gemContainer:
+  languageVersion: ''
+  gemLibsVersion: ''
+  gems: {}
+  dependencies: null
+functions:
+  author: null
+  createdAt: '2025-02-24 23:16:19'
+  udfs: {}
+  udafs: {}
+  expressions: {}
+  airflowFunctions: {}
+  businessRules: {}
+subgraphs: {}
+sqlModels: {}
+sqlSnapshots: {}
+sqlTests: {}
+sqlMacros: {}
+sqlSeeds: {}
+sqlSources: {}
+sqlUnreferencedSources: {}
+sqlOrchestratorPipelines: {}
+sqlBusinessApps: {}
+sqlPipeline: null
+dependencies:
+- modifiedAt: '2025-02-24T23:16:19.295462Z'
+  name: plibMaven
+  version: 8.9.0-SNAPSHOT
+  id: '1695832334'
+  createdAt: '2025-02-24T23:16:19.295462Z'
+  type: plibMaven
+projectDependencies:
+  '391':
+    projectUID: 391
+    projectName: mohammed.kulas
+    repositoryPath: gitUri=http://gitserver:3000/dev_bPhaLesh_team_678/dev_bPhaLesh_project_391.git&subPath=
+    version: mohammed.kulas/6.2.9.17
+    isDefault: false
+    author: null
+    createdAt: '2025-02-24 23:16:16'
+flags:
+  shouldAddDefaultDependenciesIfAbsent: true
+pipelineConfigurations: {}
